@@ -1,0 +1,95 @@
+body{
+    background: url("02.jpg");
+    background-size: 1024px auto;
+/*    background-position: center;*/
+    background-attachment:fixed;
+/*    background-repeat:no-repeat;*/
+    height: 1500px;
+    text-align: center;
+/*    margin: 80px 30px;*/
+}
+
+
+
+.topic{
+    color: rgb(54, 6, 255);
+    text-align: center;
+    font-weight: 900;
+    font-family:Myriad Pro;
+    font-size: 7.5em;
+    letter-spacing: 20px;
+    padding: 0px;
+    margin-top: 0px;
+}
+.Content{
+/*    width: 700px;*/
+    color: #e6d3a5;
+    text-align: center;
+    display:inline-block;
+    font-family:Myriad Pro;
+    font-weight: 00;
+    font-style: italic;
+    font-size: 1.2em;
+    letter-spacing: 0.4px;
+    padding: 100px 160px 120px;
+/*    position: center;*/
+    margin-top: px;
+}
+
+.NAME{
+    color: rgb(208, 208, 208);
+    text-align: center;
+    font-weight: 900;
+    font-family:Myriad Pro;
+    font-size: 3.5em;
+    letter-spacing: 3px;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.Content1{
+/*    width: 700px;*/
+    color: rgb(214, 214, 214);
+    text-align: center;
+    display:inline-block;
+    font-family:Myriad Pro;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 0.9em;
+    letter-spacing: 0.4px;
+    padding: 00px 160px 0px;
+    margin-top: -40px;
+    margin-bottom: 100px;
+}
+
+input.MyButton {
+  color: #5a5a5a;
+  font-size: 2em;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0);
+  border-radius: 0px;
+  border: 0px solid #ffe500;
+  padding: 20px;
+  margin-bottom: 100px;
+  margin-top: -500px;
+  transition: 0.5s color;
+}
+
+input.MyButton:hover {
+  color: #bbf029;
+}
+.Footer{
+    color: #585858;
+    text-align: center;
+    font-family:Myriad Pro;
+    font-size: 7px;
+    letter-spacing: 1.2px;
+    position: relative;
+    bottom: 50px;
+    width:100%;
+/*    height:100px;*/
+}
+
+
+

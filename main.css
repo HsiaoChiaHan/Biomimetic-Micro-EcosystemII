@@ -1,0 +1,74 @@
+
+body{
+    background: url("01.jpg");
+    background-size: 1280px auto;
+    text-align: center;
+    margin: 80px 30px;
+}
+.topic{
+    color: #e4ed25;
+    text-align: center;
+    font-weight: bold;
+    font-family:Myriad Pro;
+    font-size: 3em;
+    letter-spacing: 1px;
+    padding: 20px;
+    margin-top: 160px;
+}
+.Director{
+    color: #bcb9b9;
+    text-align: center;
+    font-family:Myriad Pro;
+    font-size: 1em;
+    letter-spacing: 1.2px;
+    padding: 1px;
+    margin-top: px;
+}
+.DN{
+    color: #ffffff;
+    text-align: center;
+    font-family:Myriad Pro;
+    font-size: 1.4em;
+    letter-spacing: 1px;
+    padding-top: -5px;
+}
+.Team{
+    color: #14a095;
+    text-align: center;
+    font-family:Myriad Pro;
+    font-size: 1em;
+    letter-spacing: 0.5px;
+    padding: 12px;
+    margin-top: 0px;
+}
+
+input.MyButton {
+  color: #8e1a2c;
+  font-size: 2em;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: rgba(224, 224, 224, 0);
+  border-radius: 5px;
+  border: 1px solid rgba(51, 102, 204, 0);
+  padding: 30px;
+  margin-top: 30px;
+  transition: 0.5s color;
+}
+
+input.MyButton:hover {
+  color: #ff3535;
+}
+
+.Footer{
+    color: #585858;
+    text-align: center;
+    font-family:Myriad Pro;
+    font-size: 7px;
+    letter-spacing: 1.2px;
+    position: relative;
+    bottom: -60px;
+    width:100%;
+}
+
+
+
